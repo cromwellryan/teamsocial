@@ -11,4 +11,4 @@ Setup Development environment
 You'll need node 0.6.15 or greater http://nodejs.org/
 
 Get the node modules
-'<npm install>'
+        npm install
