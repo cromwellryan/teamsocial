@@ -1,0 +1,18 @@
+{
+  "author": "Ryan Cromwell <ryan@echelontouch.com>",
+  "name": "TeamSocial",
+  "description": "A tool to help distribute and social teams.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cromwellryan/teamsocial.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-node": "1.0.26"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.6.15"
+  }
+}
